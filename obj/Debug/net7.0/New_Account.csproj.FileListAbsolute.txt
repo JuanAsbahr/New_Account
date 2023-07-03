@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\bin\Debug\net7.0\New_Account.exe
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\bin\Debug\net7.0\New_Account.deps.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\bin\Debug\net7.0\New_Account.runtimeconfig.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\bin\Debug\net7.0\New_Account.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\bin\Debug\net7.0\New_Account.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\refint\New_Account.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\New_Account.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\New_Account\obj\Debug\net7.0\ref\New_Account.dll
